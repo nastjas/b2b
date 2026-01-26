@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/nastjas/b2b/
+    type: markup
+
+folders:
+  /products/: /products/default
